@@ -8,7 +8,7 @@
    
  I originally started my academic journey studying Fine Art -- However, I decided to pivot from traditional mediums and explore expression in the digital world. 🎨
 <p align="center">
-  <img width="100" height="100" src="https://i.imgur.com/PWkcQJV.jpeg">
+  <img width="100" height="100" src="https://i.imgur.com/R4iPwpQ.png">
 </p>
 
 
