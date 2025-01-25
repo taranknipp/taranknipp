@@ -11,6 +11,6 @@
   <img width="100" height="100" src="https://i.imgur.com/R4iPwpQ.png">
 </p>
 
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taranknipp&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</p>P
